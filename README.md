@@ -66,3 +66,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 "# vms-utm" 
 "# vms-utm" 
+"# vms-utm"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/ibnusulaiman83/vms-utm.git git push -u origin main
+"# vms-utm" 
